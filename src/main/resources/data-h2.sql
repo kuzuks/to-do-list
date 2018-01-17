@@ -1,0 +1,1 @@
+INSERT INTO Tasks(Title, Status, Description) VALUES('Shopping list', FALSE,'Apples Beers');
